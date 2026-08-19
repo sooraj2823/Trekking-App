@@ -1,4 +1,4 @@
-# TrekOps - Trekking Management Application V1 (Monorepo)
+# TrekOps - Trekking Management Application V1 
 
 A full-stack Trekking & Expedition Management Application built for managing Indian trek destinations, staff assignments, user bookings, and REST API integrations. Featuring an ultra-sleek dark glassmorphism design system with a mountain trekking hero wallpaper.
 
